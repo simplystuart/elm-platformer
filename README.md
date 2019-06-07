@@ -1,6 +1,4 @@
-# elm-platformer
-
-Demo Only
+# elm-platformer-example
 
 ```
 git clone https://github.com/simplystuart/elm-platformer-example.git
